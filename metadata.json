@@ -1,0 +1,6 @@
+{
+  "name": "한장 앨범 (OnePage Photo Album)",
+  "description": "사진 여러 장을 올려 한 쪽에 한 장씩 제목과 설명을 기록하고 PDF로 저장할 수 있는 단일 HTML 사진 앨범 앱",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
